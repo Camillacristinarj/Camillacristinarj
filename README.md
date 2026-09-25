@@ -1,27 +1,7 @@
-👋 Olá, eu sou a Camilla Cristina!
-🚀 Desenvolvedora Front-end em formação
+Desenvolvedora Front-End em formação, estudante de Análise e Desenvolvimento de Sistemas e movida pelo desafio de transformar ideias em experiências digitais.
 
-Estudante apaixonada por tecnologia, transformando aprendizado em projetos e linhas de código.
+Meu foco está no desenvolvimento de interfaces modernas, responsivas e funcionais, utilizando HTML5, CSS3, JavaScript, TypeScript e React.js, com Git e GitHub no meu fluxo de desenvolvimento.
 
-🌱 O que estou aprendendo atualmente:
-HTML5 & CSS3
-JavaScript
-Banco de Dados
-Boas práticas de desenvolvimento
+Tenho perfil curioso e analítico, gosto de entender como as coisas funcionam, transformar problemas em soluções e evoluir constantemente através da prática.
 
-🎯 Meu objetivo:
-Me tornar uma Desenvolvedora Front-end, criando interfaces bonitas, intuitivas e acessíveis.
-
-📚 Em constante evolução
-
-Cada curso concluído, cada projeto criado e cada desafio resolvido me aproxima do meu objetivo na área de tecnologia.
-
-💡 Vamos conectar?
-
-📧 Email: camillarj86@gmail.com
-💼 LinkedIn: linkedin.com/in/camilla-cristina-1642773b9
-📸 Instagram: @camillapinheirorj
-
-"Sonhe grande, code maior ainda!" 💻✨
-
-Atualizado em junho/2026
+Tecnologia, aprendizado contínuo e código bem feito fazem parte da minha construção profissional 🚀
